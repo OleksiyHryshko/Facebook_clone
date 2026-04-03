@@ -64,7 +64,7 @@ g++ -std=c++17 -Wall -Wextra -pedantic main.cpp Platform.cpp User.cpp Message.cp
 - Posts are currently not persisted to disk
 - Error handling and tests are minimal in current version
 
-## Internship-Relevant Skills Highlighted
+##  Skills Highlighted
 
 - C++ OOP and class design
 - Working with STL containers and smart pointers
@@ -82,4 +82,3 @@ g++ -std=c++17 -Wall -Wextra -pedantic main.cpp Platform.cpp User.cpp Message.cp
 
 ---
 
-If you are reviewing this repository for an internship: this project is intentionally scoped as a learning build, and I can explain design decisions, tradeoffs, and planned improvements in detail.
